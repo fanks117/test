@@ -304,10 +304,10 @@ array set ::settings {
 	profile_graph_smoothing_technique "quadratic"
 	live_graph_smoothing_technique "linear"
 	preview_graph_smoothing_technique "quadratic"
-	espresso_count 0
-	steaming_count 0
+	espresso_count 300
+	steaming_count 280
 	profile_has_changed 0
-	water_count 0
+	water_count 20
 	also_load_god_shot 1
 	advanced_shot {}
 	water_time_max 60
